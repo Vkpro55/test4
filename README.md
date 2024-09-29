@@ -16,6 +16,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Vkpro55/test4/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/Vkpro55/test4/tree/master/0239-sliding-window-maximum) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Vkpro55/test4/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vkpro55/test4/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vkpro55/test4/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vkpro55/test4/tree/master/0141-linked-list-cycle) |
+## Binary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Vkpro55/test4/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
