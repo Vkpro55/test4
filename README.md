@@ -8,6 +8,7 @@
 | [0179-largest-number](https://github.com/Vkpro55/test4/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Vkpro55/test4/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vkpro55/test4/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vkpro55/test4/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vkpro55/test4/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vkpro55/test4/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vkpro55/test4/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vkpro55/test4/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vkpro55/test4/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vkpro55/test4/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
