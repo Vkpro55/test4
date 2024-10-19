@@ -35,11 +35,13 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vkpro55/test4/tree/master/0241-different-ways-to-add-parentheses) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/Vkpro55/test4/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vkpro55/test4/tree/master/0241-different-ways-to-add-parentheses) |
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/Vkpro55/test4/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Recursion
 |  |
 | ------- |
@@ -128,4 +130,8 @@
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vkpro55/test4/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Combinatorics
+|  |
+| ------- |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/Vkpro55/test4/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 <!---LeetCode Topics End-->
