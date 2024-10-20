@@ -8,6 +8,7 @@
 | [0179-largest-number](https://github.com/Vkpro55/test4/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Vkpro55/test4/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vkpro55/test4/tree/master/0241-different-ways-to-add-parentheses) |
+| [1197-parsing-a-boolean-expression](https://github.com/Vkpro55/test4/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vkpro55/test4/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vkpro55/test4/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vkpro55/test4/tree/master/0241-different-ways-to-add-parentheses) |
+| [1197-parsing-a-boolean-expression](https://github.com/Vkpro55/test4/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vkpro55/test4/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/Vkpro55/test4/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
+## Stack
+|  |
+| ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/Vkpro55/test4/tree/master/1197-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
