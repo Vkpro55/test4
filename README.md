@@ -10,6 +10,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Vkpro55/test4/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vkpro55/test4/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vkpro55/test4/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vkpro55/test4/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vkpro55/test4/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vkpro55/test4/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vkpro55/test4/tree/master/0141-linked-list-cycle) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vkpro55/test4/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vkpro55/test4/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Vkpro55/test4/tree/master/0039-combination-sum) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vkpro55/test4/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vkpro55/test4/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
