@@ -70,6 +70,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vkpro55/test4/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Vkpro55/test4/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -148,15 +149,18 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vkpro55/test4/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vkpro55/test4/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Vkpro55/test4/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vkpro55/test4/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vkpro55/test4/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Vkpro55/test4/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vkpro55/test4/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vkpro55/test4/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Vkpro55/test4/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 <!---LeetCode Topics End-->
