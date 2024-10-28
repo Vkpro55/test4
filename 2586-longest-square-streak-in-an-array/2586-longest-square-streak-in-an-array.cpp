@@ -2,21 +2,23 @@ class Solution {
 public:
     int longestSquareStreak(vector<int>& nums) {
         sort(nums.begin(), nums.end());
+        int ans=-1, n= nums.size();
 
-        int ans=-1;
-        map<int, int> dp; // dp[x]-> maz length of subsequnce whose length is x
+        for (int i=0; i<n; i++){
+            long long x= 1ll*nums[i];
+            long long pwr= x*x;
 
-        for(int num : nums){
-            int sq= sqrt(num);
-            if(sq*sq == num && dp.find(sq)!=dp.end()){
-                dp[num]= dp[sq]+1;
-                ans= max(ans, dp[num]);
-            }
-            else{
-                dp[num]=1;
+            if(binary_search(nums.begin(), nums.end(), pwr)){
+                int len=1;
+
+                while (binary_search(nums.begin(), nums.end(), pwr)){
+                    len++;
+                    pwr= pwr*pwr;
+                }
+
+                ans= max(ans, len);
             }
         }
-
         return ans;
     }
 };
