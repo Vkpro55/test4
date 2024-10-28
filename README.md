@@ -26,6 +26,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vkpro55/test4/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vkpro55/test4/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vkpro55/test4/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Vkpro55/test4/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vkpro55/test4/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Vkpro55/test4/tree/master/0179-largest-number) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Vkpro55/test4/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Vkpro55/test4/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Math
 |  |
@@ -47,6 +49,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vkpro55/test4/tree/master/0241-different-ways-to-add-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vkpro55/test4/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Vkpro55/test4/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/Vkpro55/test4/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Recursion
@@ -93,6 +96,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vkpro55/test4/tree/master/0141-linked-list-cycle) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vkpro55/test4/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Vkpro55/test4/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vkpro55/test4/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vkpro55/test4/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -128,6 +132,7 @@
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vkpro55/test4/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Vkpro55/test4/tree/master/2586-longest-square-streak-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
