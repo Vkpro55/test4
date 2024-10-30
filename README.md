@@ -24,6 +24,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vkpro55/test4/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Vkpro55/test4/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vkpro55/test4/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vkpro55/test4/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vkpro55/test4/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vkpro55/test4/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vkpro55/test4/tree/master/2586-longest-square-streak-in-an-array) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Vkpro55/test4/tree/master/0179-largest-number) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vkpro55/test4/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vkpro55/test4/tree/master/0241-different-ways-to-add-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vkpro55/test4/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vkpro55/test4/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vkpro55/test4/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/Vkpro55/test4/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
@@ -132,6 +135,7 @@
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vkpro55/test4/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vkpro55/test4/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vkpro55/test4/tree/master/2586-longest-square-streak-in-an-array) |
 ## Backtracking
 |  |
