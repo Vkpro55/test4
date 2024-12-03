@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vkpro55/test4/tree/master/0241-different-ways-to-add-parentheses) |
+| [0441-arranging-coins](https://github.com/Vkpro55/test4/tree/master/0441-arranging-coins) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/Vkpro55/test4/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Dynamic Programming
 |  |
@@ -134,6 +135,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Vkpro55/test4/tree/master/0441-arranging-coins) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vkpro55/test4/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vkpro55/test4/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vkpro55/test4/tree/master/2586-longest-square-streak-in-an-array) |
