@@ -21,6 +21,7 @@
 | [0039-combination-sum](https://github.com/Vkpro55/test4/tree/master/0039-combination-sum) |
 | [0179-largest-number](https://github.com/Vkpro55/test4/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/Vkpro55/test4/tree/master/0239-sliding-window-maximum) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Vkpro55/test4/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vkpro55/test4/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Vkpro55/test4/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vkpro55/test4/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Vkpro55/test4/tree/master/0441-arranging-coins) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Vkpro55/test4/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vkpro55/test4/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vkpro55/test4/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vkpro55/test4/tree/master/2586-longest-square-streak-in-an-array) |
