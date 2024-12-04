@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vkpro55/test4/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Vkpro55/test4/tree/master/0039-combination-sum) |
 | [0179-largest-number](https://github.com/Vkpro55/test4/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/Vkpro55/test4/tree/master/0239-sliding-window-maximum) |
@@ -136,6 +137,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vkpro55/test4/tree/master/0035-search-insert-position) |
 | [0441-arranging-coins](https://github.com/Vkpro55/test4/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vkpro55/test4/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vkpro55/test4/tree/master/0882-peak-index-in-a-mountain-array) |
