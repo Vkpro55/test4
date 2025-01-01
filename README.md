@@ -10,6 +10,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Vkpro55/test4/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vkpro55/test4/tree/master/1197-parsing-a-boolean-expression) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Vkpro55/test4/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Vkpro55/test4/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vkpro55/test4/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vkpro55/test4/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vkpro55/test4/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -206,4 +207,8 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vkpro55/test4/tree/master/0780-max-chunks-to-make-sorted) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Vkpro55/test4/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
