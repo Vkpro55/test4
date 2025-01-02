@@ -14,6 +14,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vkpro55/test4/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vkpro55/test4/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vkpro55/test4/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Vkpro55/test4/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Vkpro55/test4/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vkpro55/test4/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -33,6 +34,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vkpro55/test4/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vkpro55/test4/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vkpro55/test4/tree/master/2586-longest-square-streak-in-an-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Vkpro55/test4/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vkpro55/test4/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
@@ -211,4 +213,5 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vkpro55/test4/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Vkpro55/test4/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
