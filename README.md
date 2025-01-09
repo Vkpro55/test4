@@ -31,6 +31,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Vkpro55/test4/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vkpro55/test4/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vkpro55/test4/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Vkpro55/test4/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vkpro55/test4/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vkpro55/test4/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vkpro55/test4/tree/master/2586-longest-square-streak-in-an-array) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Vkpro55/test4/tree/master/0179-largest-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vkpro55/test4/tree/master/0780-max-chunks-to-make-sorted) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Vkpro55/test4/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vkpro55/test4/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Vkpro55/test4/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Math
@@ -109,6 +111,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vkpro55/test4/tree/master/0141-linked-list-cycle) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vkpro55/test4/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Vkpro55/test4/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vkpro55/test4/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vkpro55/test4/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
@@ -141,6 +144,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vkpro55/test4/tree/master/0141-linked-list-cycle) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Vkpro55/test4/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Vkpro55/test4/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
