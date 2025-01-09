@@ -37,6 +37,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Vkpro55/test4/tree/master/2586-longest-square-streak-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vkpro55/test4/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vkpro55/test4/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vkpro55/test4/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
 |  |
