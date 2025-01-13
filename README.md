@@ -18,6 +18,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Vkpro55/test4/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vkpro55/test4/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Vkpro55/test4/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Array
 |  |
 | ------- |
@@ -117,10 +118,12 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vkpro55/test4/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Vkpro55/test4/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vkpro55/test4/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Vkpro55/test4/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
 | ------- |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vkpro55/test4/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Vkpro55/test4/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Queue
 |  |
 | ------- |
